@@ -1,0 +1,144 @@
+html{
+    border: 0;
+    margin: 0;
+}
+body{
+    width: 99%;
+    height: 99%;
+    background-image:url("../img/bgiii3.jpg");
+    background-size: cover;
+}
+
+#nav{
+    position: absolute;
+    display: block;
+    width: 1230px;
+    height: 120px;
+    border: 1px solid;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+}
+
+#img1{
+    position: relative;
+    display: block;
+    float: left;
+    width: 100px;
+    height: 100px;
+    left: 50px;
+}
+
+h2{
+    position: relative;
+    float: left;
+    left: 70px;
+    top:20px;
+}
+
+#name1{
+    position: absolute;
+    left: 900px;
+    top: 40px;
+    font-size: large;
+    font-family: Arial;
+}
+#part1{
+    position: absolute;
+    left: 900px;
+    top: 80px;
+    font-size: large;
+    font-family: Arial;
+}
+
+#left{
+    position: absolute;
+    display: block;
+    left: 5px;
+    top:160px;
+    width: 200px;
+    height: 500px;
+    border: 1px solid;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    background-color: transparent;
+}
+
+li:hover{
+    cursor: pointer;
+    background-color: #dadada;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+
+a{
+    width: 100%;
+    height: 100%;
+    display: inline-table;
+    text-decoration: none;
+}
+a:focus{
+    text-decoration: none;
+}
+
+.tit:hover{
+    cursor: pointer;
+    background-color: #dadada;
+    border-radius: 10px;
+    transition: all 0.3s;
+}
+.tit{
+    cursor: pointer;
+    background-color: #dadada;
+}
+
+img{
+    position: relative;
+    float: left;
+    width: 20px;
+    height: 20px;
+}
+
+
+#right{
+    position: absolute;
+    display: block;
+    top: 150px;
+    left: 240px;
+    overflow: hidden;
+    width: 1000PX;
+    height: 500px;
+    border: 0px;
+}
+#setime{
+    position: absolute;
+    top: 120px;
+    left: 875px;
+    height: 60px;
+    width: 400px;
+}
+#shalou{
+    position: relative;
+    width: 31px;
+    height: 31px;
+    top: -7px;
+}
+#yonghu{
+	position: absolute;
+    left: 880px;
+    top: 40px;
+    width: 25px;
+    height: 25px;
+    float: left;
+}
+#bumen{
+	position: absolute;
+    left: 880px;
+    top: 80px;
+    width: 25px;
+    height: 25px;
+    float: left;
+}

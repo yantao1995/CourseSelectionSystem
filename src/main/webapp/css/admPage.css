@@ -1,0 +1,150 @@
+html{
+    border: 0;
+    margin: 0;
+}
+body{
+    width: 99%;
+    height: 99%;
+    background-image:url("../img/bgiii3.jpg");
+    background-size: cover;
+}
+
+#nav{
+    position: absolute;
+    display: block;
+    width: 1230px;
+    height: 120px;
+    border: 1px solid;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+}
+
+#img1{
+    position: relative;
+    display: block;
+    float: left;
+    width: 100px;
+    height: 100px;
+    left: 50px;
+}
+
+h2{
+    position: relative;
+    float: left;
+    left: 70px;
+    top:20px;
+}
+
+#name1{
+    position: absolute;
+    left: 900px;
+    top: 40px;
+    font-size: large;
+    font-family: Arial;
+}
+
+
+#left{
+    position: absolute;
+    display: block;
+    top:95px;
+    width: 200px;
+    height: 500px;
+    border: 1px solid;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+}
+#t1{
+    position: relative;
+    display: block;
+    top: 40px;
+    height: 450px;
+    width: 100%;
+}
+
+.tr1{
+    position: relative;
+    display: block;
+    margin-bottom: 10px;
+    top: 10px;
+    left: 10px;
+    width: 100%;
+    height: 55px;
+    border: 1px solid;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: #616161;
+}
+
+.tr1:hover{
+    cursor: pointer;
+    background-color: #dadada;
+    border-radius: 20px;
+    transition: all 0.5s;
+}
+
+.img2{
+    position: relative;
+    float: left;
+    top: 10px;
+    width: 50px;
+    height: 50px;
+}
+.img2>img{
+    position: relative;
+    float: left;
+    left: 20px;
+    width: 35px;
+    height: 35px;
+}
+
+.tit{
+    position: relative;
+    float: left;
+    top: 17px;
+    left: 15px;
+    width: 120px;
+    height: 60px;
+}
+
+#right{
+    position: absolute;
+    display: block;
+    top: 150px;
+    left: 250px;
+    overflow: hidden;
+    width: 1000PX;
+    height: 500px;
+    border: 0px;
+}
+
+#setime{
+    position: absolute;
+    top: 100px;
+    left: 875px;
+    height: 60px;
+    width: 400px;
+}
+#shalou{
+    position: relative;
+    width: 31px;
+    height: 31px;
+    float: left;
+}
+#yonghu{
+	position: absolute;
+    left: 880px;
+    top: 40px;
+    width: 25px;
+    height: 25px;
+    float: left;
+}
+#bttime{
+    background-color: transparent;
+}
+  
