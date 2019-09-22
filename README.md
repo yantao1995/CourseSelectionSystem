@@ -5,3 +5,5 @@
 #### 开课开班管理，班级学生信息查看，课表查询
 ### 学生端
 #### 选课，退选，课表查询
+
+![学生选课及选班](https://github.com/yantao1995/PictureReference/blob/master/CourseSelectionSystem/%E5%AD%A6%E7%94%9F%E9%80%89%E8%AF%BE%E5%8F%8A%E9%80%89%E7%8F%AD.png)
